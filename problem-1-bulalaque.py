@@ -1,4 +1,4 @@
-name = "Matt Joshua"
+name = "Maria"
 age = 16
 gpa = 3.8
 enrolled = True
